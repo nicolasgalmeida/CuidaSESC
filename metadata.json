@@ -1,0 +1,7 @@
+{
+  "name": "CuidaSESC - Gestão de Ambulatório - Passagem turno",
+  "description": "Sistema moderno de gestão ambulatorial com prontuário eletrônico, gerenciamento de usuários, upload de fotos e geração de laudos assistida por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
